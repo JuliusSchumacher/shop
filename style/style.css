@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#wrapper {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 2px 5px 1px rgba(44, 44, 44, 0.55);
+}
+
+header {
+    height: 170px;
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: solid 1px #000;
+}
+
+.logoWrapper {
+    margin: 0 auto;
+    display: table;
+}
+
+header h1 {
+    display: inline-block;
+    margin: auto 0;
+    padding: 0;
+    font-size: 120px;
+    font-weight: 100;
+}
+
+header h5 {
+    display: inline;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.logo {
+    width: 150px;
+}
+
